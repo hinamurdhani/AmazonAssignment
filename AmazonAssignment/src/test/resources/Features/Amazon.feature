@@ -1,4 +1,4 @@
-Feature: BioMark Automation
+Feature: Amazon Automation
 	
 	
 Scenario: validate use login using valid creds
